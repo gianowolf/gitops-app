@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gian Franco Lasala – Docs</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on Gian Franco Lasala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 May 2024 09:56:26 -0300</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
